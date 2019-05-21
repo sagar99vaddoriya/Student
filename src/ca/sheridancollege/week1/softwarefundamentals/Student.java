@@ -14,6 +14,7 @@ public class Student {
     private String name;
     
     private int stuId;
+    private int change;
 
     /**
      * Get the value of stuId
